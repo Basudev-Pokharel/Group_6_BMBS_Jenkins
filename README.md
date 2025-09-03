@@ -48,7 +48,3 @@ You can add, delete, and reorder tasks with an easy-to-use interface.
    npm run dev
 
    ```
-
-## 🔗 Connect with Me
-
-[💼 LinkedIn Profile](https://www.linkedin.com/in/basudev-pokharel/)
