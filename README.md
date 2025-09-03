@@ -5,6 +5,12 @@ You can add, delete, and reorder tasks with an easy-to-use interface.
 
 ---
 
+##  Teams
+- Basu
+- Makar
+- Benitta
+- Saara
+
 ## 🚀 Features
 
 - ➕ Add new todos
