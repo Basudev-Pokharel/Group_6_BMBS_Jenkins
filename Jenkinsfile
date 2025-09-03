@@ -12,6 +12,7 @@ pipeline {
         stage('Test') {
             steps {
                 echo "Tests passed successfully!"
+                sh helkhidio
             }
         }
         stage('Deploy') {
